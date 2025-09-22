@@ -1,6 +1,6 @@
 # 📊 Hospital Performance Data Analysis  
 
-![Dashboard Screenshot](dashboard.png)  
+![Dashboard Screenshot](dashboard_.png)  
 
 ---
 
